@@ -4,8 +4,10 @@ import java.awt.*;
 /**
  * Write a description of class MyWorld here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Omar Nakhleh
+ * @teacher Scott Hardman
+ * @Assigment Assignment 3s
+ * @version (4/13/2017)
  */
 public class MyWorld extends World
 {
